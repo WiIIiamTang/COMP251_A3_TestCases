@@ -112,7 +112,8 @@ CLRS p.652:
 - Clone the repo and put all ``.java`` source files from the assignment into the directory
 - Run ``python3 tester.py``. It runs your program on all files in the ``tests`` folders and compares the output to the files in the ``res`` folders.
 - It only checks for an output identical to the expected result, not for program correctness.
-- Pass ``v`` as a command line argument to ``tester.py`` to see more detailed results, including the expected output if a test case failed.
+
+- **Pass ``v`` as a command line argument to ``tester.py`` to see more detailed results, including the expected output if a test case failed.**
 
 Example output from tester:
 ```
